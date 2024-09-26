@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
-* [Home :house:](/)
-* [Game Overview :video_game:](1.md) 
+* [Home](/)
+* [Game Overview](1.md) 
 * [Gameplay Mechanics :joystick:](2.md) 
 * [Graphics and Visuals  :art:](3.md)
 * [Physics and Interactions :collision:](4.md) 

@@ -1,6 +1,4 @@
 # Welcome to Space Paws Odyssey Docs :paperclips:!
-
-
 ![Cat Logo](media/SpacePawsOdyssey.png)
 
 *Note: This name is a placeholder guys :*
