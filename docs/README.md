@@ -36,6 +36,11 @@ In **Space Paws Odyssey**, players will:
 - Make good use of the limited clues and oxygen tank, by using strategic thinking.
 - Overcome obstacles and challenges to return to Earth.
 
+
+## Important Links
+- [Documentation Website](https://cgv-project-galaxy-meow.github.io/Galaxy-Meow-Docs/)
+- [Code Repository](https://github.com/CGV-project-Galaxy-Meow/Galaxy-Meow)
+
 ---
 
 ---
