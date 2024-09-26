@@ -1,8 +1,12 @@
 # Welcome to Space Paws Odyssey Docs :paperclips:!
 
+
+![Cat Sprite](media/SpacePawsOdyssey.png)
+
 *Note: This name is a placeholder guys :*
 
 Welcome to the documentation of **Space Paws Odyssey**, a Three.js space game where you embark on a fun and challenging adventure to assemble a spaceship and return to Earth, guided by **The Cat**:cat:! This project is our third-year assignment for **Computer Graphics and Visualization III**.
+
 ## Tools used:
 > Three.js,
 > JavaScript,
