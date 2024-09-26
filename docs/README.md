@@ -57,6 +57,7 @@ Level 3:
 - Successfully fix the teleporter or suffocate.
 
 ![Cat Sprite](media/SpaceCat.png)
+
 ---
 
 ---
