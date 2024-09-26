@@ -12,7 +12,7 @@ Welcome to the documentation of **Space Paws Odyssey**, a Three.js space game wh
 
 > **Dineo Chiloane** (2563191) 👩‍💻<br>
 > **Claire Newman** (2549861) 👩‍💻<br>
-> **[Name]** ([Student Number]) 👩‍💻<br>
+> **Chloe Dube** (2602515) 👩‍💻<br>
 > **[Name]** ([Student Number]) 👩‍💻<br>
 > **[Name]** ([Student Number]) 👩‍💻<br>
 > **[Name]** ([Student Number]) 👩‍💻<br>
