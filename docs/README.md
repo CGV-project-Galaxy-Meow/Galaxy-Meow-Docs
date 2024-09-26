@@ -11,7 +11,7 @@ Welcome to the documentation of **Space Paws Odyssey**, a Three.js space game wh
 ## Developed by Galaxy Meow:
 
 > **Dineo Chiloane** (2563191) 👩‍💻<br>
-> **[Name]** ([Student Number]) 👩‍💻<br>
+> **Claire Newman** (2549861) 👩‍💻<br>
 > **[Name]** ([Student Number]) 👩‍💻<br>
 > **[Name]** ([Student Number]) 👩‍💻<br>
 > **[Name]** ([Student Number]) 👩‍💻<br>
