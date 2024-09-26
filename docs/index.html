@@ -7,16 +7,31 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+
+  <style>
+    /* Adjust logo size */
+    .app-name img {
+      height: 80px; /* Adjust this value to make the logo smaller */
+      width: auto;
+      margin: 0; /* Adds spacing between logo and text */
+
+    }
+  </style>
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
+      name: 'Galaxy Space Odyssey Docs',
+      repo: '',
+      loadSidebar: true,
+      nativeEmoji: true,
+      logo: 'media/icon.jpeg',
+
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 </body>
 </html>
