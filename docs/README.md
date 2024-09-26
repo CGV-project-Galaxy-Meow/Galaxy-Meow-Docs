@@ -56,6 +56,7 @@ Level 3:
 - If you need clues - exchange for oxygen.
 - Successfully fix the teleporter or suffocate.
 
+![Cat Sprite](media/SpaceCat.png)
 ---
 
 ---
