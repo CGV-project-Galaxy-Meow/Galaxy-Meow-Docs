@@ -1,7 +1,7 @@
 # Welcome to Space Paws Odyssey Docs :paperclips:!
 
 
-![Cat Sprite](media/SpacePawsOdyssey.png)
+![Cat Logo](media/SpacePawsOdyssey.png)
 
 *Note: This name is a placeholder guys :*
 
