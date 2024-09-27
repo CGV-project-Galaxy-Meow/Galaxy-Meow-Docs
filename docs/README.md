@@ -16,7 +16,7 @@ Welcome to the documentation of **Space Paws Odyssey**, a Three.js space game wh
 > **Claire Newman** (2549861) 👩‍💻<br>
 > **Chloe Dube** (2602515) 👩‍💻<br>
 > **Mayuri Balakistan** (2543986) 👩‍💻<br>
-> **Maboa Wendy** (2541693) 👩‍💻<br>
+> **Wendy Maboa** (2541693) 👩‍💻<br>
 > **Busisiwe Vemba** (2561620) 👩‍💻<br>
 
 
